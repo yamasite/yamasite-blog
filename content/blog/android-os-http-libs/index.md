@@ -56,7 +56,7 @@ implements Cloneable, Call.Factory, WebSocket.Factory
 
 #### Request
 
-HTTP 请取对象。
+HTTP 请求对象。
 
 #### Response
 
