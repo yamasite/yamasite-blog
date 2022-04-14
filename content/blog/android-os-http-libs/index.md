@@ -1,7 +1,7 @@
 ---
 title: HTTP 库 - OkHttp 和 AFNetworking
 date: "2021-10-17T22:12:03.284Z"
-description: "HTTP 库简述 -  OkHttp、AFNetworking"
+description: "重新温习 Android 和 iOS 系统中的 HTTP 库"
 ---
 
 最近由于工作原因，重新温习了 Android 和 iOS 系统中的 HTTP 库。除去系统原生 API 之外，还有一些社区封装的库。比较流行的莫属 OkHttp 和 AFNetworking。下文会对这两个库做一些梳理。
